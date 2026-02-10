@@ -11,6 +11,3 @@ const name = requre('./data.js');
 // const {userName} = require('./data.js');
 
 console.log(name.userName);
-
-
-console.log("harsh khajuria is a ceo of khajuria group of companies");
